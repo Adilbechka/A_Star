@@ -6,6 +6,8 @@ Fewest Links performs Breadth First Search(BFS) to find path from start to
 destination node.  
 
 To compile: g++ main.cpp
+
+
 Make sure all files (main.cpp, map.h, node.h, connections.txt, locations.txt) are
 in the same folder!
 

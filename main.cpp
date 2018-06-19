@@ -1,7 +1,5 @@
 /*
-    Authors:
-    Adilbek Momunaliev U08859686
-    Zwe Phone Shein U70232522
+    Adil Saken
  */
 
 // Import headers
